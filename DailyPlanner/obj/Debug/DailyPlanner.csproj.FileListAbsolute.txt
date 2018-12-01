@@ -1,0 +1,16 @@
+D:\Git\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.exe.config
+D:\Git\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.exe
+D:\Git\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.pdb
+D:\Git\DailyPlanner\DailyPlanner\bin\Debug\BusinessLogic.dll
+D:\Git\DailyPlanner\DailyPlanner\bin\Debug\DataAccessLayer.dll
+D:\Git\DailyPlanner\DailyPlanner\bin\Debug\BusinessLogic.pdb
+D:\Git\DailyPlanner\DailyPlanner\bin\Debug\DataAccessLayer.pdb
+D:\Git\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csprojAssemblyReference.cache
+D:\Git\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.Calendar.resources
+D:\Git\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.TimeSelector.resources
+D:\Git\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.Properties.Resources.resources
+D:\Git\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.GenerateResource.cache
+D:\Git\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.CoreCompileInputs.cache
+D:\Git\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.CopyComplete
+D:\Git\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.exe
+D:\Git\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.pdb

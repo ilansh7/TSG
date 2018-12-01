@@ -1,0 +1,9 @@
+D:\Git\DailyPlanner\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Git\DailyPlanner\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Git\DailyPlanner\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\Git\DailyPlanner\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\Git\DailyPlanner\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\Git\DailyPlanner\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Git\DailyPlanner\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\Git\DailyPlanner\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Git\DailyPlanner\BusinessLogic\obj\Debug\BusinessLogic.pdb
